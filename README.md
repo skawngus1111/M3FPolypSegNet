@@ -8,5 +8,7 @@ Polyp segmentation is crucial for preventing colorectal cancer a common type of 
 ## Main Contribution
 
 - We propose a novel polyp segmentation model (M3F PolypSegNet) based on a multi-frequency encoder and a single-decoder architecture that utilizes unique characteristics for each frequency component.
+
 - F-ASPP SAM introduces trainable parameters between the foreground/background attention of frequency and scale to prevent information loss during the gradual upsampling of the decoder block. Furthermore, the vanishing gradient problem was prevented by performing multi-task deep supervision training in each decoder block.
+
 - We experimentally achieved state-of-the-art performance in various evaluation metrics when comparing various polyp image segmentation models on two datasets (CVC-ClinicDB and BKAI-IGH-NeoPolyp).
