@@ -12,3 +12,13 @@ Polyp segmentation is crucial for preventing colorectal cancer a common type of 
 - F-ASPP SAM introduces trainable parameters between the foreground/background attention of frequency and scale to prevent information loss during the gradual upsampling of the decoder block. Furthermore, the vanishing gradient problem was prevented by performing multi-task deep supervision training in each decoder block.
 
 - We experimentally achieved state-of-the-art performance in various evaluation metrics when comparing various polyp image segmentation models on two datasets (CVC-ClinicDB and BKAI-IGH-NeoPolyp).
+
+## Experiment Results
+### Quantitative Results
+![Screenshot from 2023-03-07 15-56-36](https://user-images.githubusercontent.com/77310264/223347217-835dfd0a-d559-47cd-941d-71224ee25b38.png)
+
+### Qualitative Results
+![Screenshot from 2023-03-07 15-56-36](https://user-images.githubusercontent.com/77310264/223347320-cad5e976-22c2-4cf1-bbbc-c527e832d484.png)
+
+### Ablation Study
+![Screenshot from 2023-03-07 15-58-02](https://user-images.githubusercontent.com/77310264/223347420-4c4e5c4b-d892-45ff-a463-b60659042cc6.png)
