@@ -18,7 +18,7 @@ Polyp segmentation is crucial for preventing colorectal cancer a common type of 
 ![Screenshot from 2023-03-07 15-56-36](https://user-images.githubusercontent.com/77310264/223347217-835dfd0a-d559-47cd-941d-71224ee25b38.png)
 
 ### Qualitative Results
-![Screenshot from 2023-03-07 15-56-36](https://user-images.githubusercontent.com/77310264/223347320-cad5e976-22c2-4cf1-bbbc-c527e832d484.png)
+![Screenshot from 2023-03-07 15-57-36](https://user-images.githubusercontent.com/77310264/223347489-5a74a674-0224-48c2-a1bc-bf44657dd267.png)
 
 ### Ablation Study
 ![Screenshot from 2023-03-07 15-58-02](https://user-images.githubusercontent.com/77310264/223347420-4c4e5c4b-d892-45ff-a463-b60659042cc6.png)
